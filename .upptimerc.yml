@@ -1,6 +1,6 @@
 # Change these first
-owner: max-acumen # Your GitHub username
-repo: github_upptime # Your Github repository name
+owner: acumenlabs # Your GitHub username
+repo: status-page # Your Github repository name
 
 # Add your sites here
 sites:
@@ -13,7 +13,7 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: 
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /github_upptime
+  baseUrl: /status-page
   logoUrl: https://app.acumen.io/assets/images/logo-dark.svg
   name: Acumen Status Page
   introTitle: "Acumen Labs status monitor page"
