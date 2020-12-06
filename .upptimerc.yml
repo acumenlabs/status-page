@@ -4,9 +4,9 @@ repo: status-page # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Acumen Front End
+  - name: Acumen Website
     url: https://www.acumen.io
-  - name: Acumen Back End
+  - name: Acumen API
     url: $BACKEND_URL
 
 status-website:
