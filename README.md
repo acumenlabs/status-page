@@ -21,10 +21,10 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://max-acumen.github.io/github_upptime)
+[**Visit our status website →**](https://acumenlabs.github.io/status-page)
 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [max-acumen](https://max-acumen.github.io/github_upptime)
+- Code: [MIT](./LICENSE) © [acumenlabs](https://acumenlabs.github.io/status-page)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
