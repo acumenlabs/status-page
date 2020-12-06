@@ -11,9 +11,9 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: status.acumen.io
+  cname: status.acumen.io
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /status-page
+  # baseUrl: /status-page
   logoUrl: https://app.acumen.io/assets/images/logo-dark.svg
   name: Acumen Status Page
   introTitle: "Acumen Labs status monitor page"
