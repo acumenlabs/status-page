@@ -1,4 +1,4 @@
-# [📈 Live Status](https://max-acumen.github.io/github_upptime): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://acumenlabs.github.io/status-page): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [acumenlabs](https://acumenlabs.github.io/status-page), powered by [Upptime](https://github.com/upptime/upptime).
 
