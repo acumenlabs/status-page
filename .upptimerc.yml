@@ -17,12 +17,11 @@ status-website:
   logoUrl: https://app.acumen.io/assets/images/logo-dark.svg
   name: Acumen Status Page
   introTitle: "Acumen Labs status monitor page"
-  introMessage: 
+  introMessage:
   navbar:
     - title: Status
       href: /
     - title: Acumen.io
       href: https://www.acumen.io
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
