@@ -8,6 +8,14 @@ sites:
     url: https://www.acumen.io
   - name: Acumen API
     url: $BACKEND_URL
+  - name: Fetchers
+    url: $STATUS_URL
+    method: POST
+    body: '{"username": "gh-status-page", "password": "$GH_SECRET", "statusType": "fetchers"}'
+  - name: Processors
+    url: $STATUS_URL
+    method: POST
+    body: '{"username": "gh-status-page", "password": "$GH_SECRET", "statusType": "processors"}'
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
