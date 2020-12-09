@@ -11,11 +11,15 @@ sites:
   - name: Fetchers
     url: $STATUS_URL
     method: POST
-    body: '{"username": "gh-status-page", "password": "$GH_SECRET", "statusType": "fetchers"}'
+    body: '{"username": "$GH_USERNAME", "password": "$GH_SECRET", "statusType": "fetchers"}'
+    __dangerous__body_down: "more than 30% of fetchers are down"
+    __dangerous__body_degraded: "between 0-30% of fetchers are down"
   - name: Processors
     url: $STATUS_URL
     method: POST
-    body: '{"username": "gh-status-page", "password": "$GH_SECRET", "statusType": "processors"}'
+    body: '{"username": "$GH_USERNAME", "password": "$GH_SECRET", "statusType": "processors"}'
+    __dangerous__body_down: "more than 30% of data processors are down"
+    __dangerous__body_degraded: "between 0-30% of data processors are down"
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
