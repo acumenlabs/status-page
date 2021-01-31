@@ -85,18 +85,19 @@
     "url": "$STATUS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "processors",
-    "status": "up",
-    "uptime": "94.50%",
-    "uptimeDay": "84.29%",
-    "uptimeWeek": "83.51%",
-    "uptimeMonth": "91.75%",
-    "uptimeYear": "94.50%",
+    "status": "down",
+    "uptime": "94.56%",
+    "uptimeDay": "84.26%",
+    "uptimeWeek": "83.59%",
+    "uptimeMonth": "91.83%",
+    "uptimeYear": "94.56%",
     "time": 89,
-    "timeDay": 99,
+    "timeDay": 98,
     "timeWeek": 99,
     "timeMonth": 106,
     "timeYear": 89,
     "dailyMinutesDown": {
+      "2021-01-31": 0,
       "2021-01-30": 226,
       "2021-01-29": 248,
       "2021-01-28": 340,
@@ -110,7 +111,7 @@
       "2021-01-20": 333,
       "2021-01-19": 626,
       "2021-01-18": 381,
-      "2021-01-17": 41
+      "2021-01-17": 6
     }
   }
 ]
