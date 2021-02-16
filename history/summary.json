@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 207,
-    "timeDay": 196,
-    "timeWeek": 189,
+    "timeDay": 197,
+    "timeWeek": 190,
     "timeMonth": 202,
     "timeYear": 207,
     "dailyMinutesDown": {}
@@ -44,14 +44,14 @@
     "slug": "fetchers",
     "status": "up",
     "uptime": "92.60%",
-    "uptimeDay": "67.50%",
-    "uptimeWeek": "59.09%",
+    "uptimeDay": "68.52%",
+    "uptimeWeek": "59.42%",
     "uptimeMonth": "85.59%",
     "uptimeYear": "92.60%",
     "time": 548,
     "timeDay": 341,
     "timeWeek": 354,
-    "timeMonth": 461,
+    "timeMonth": 460,
     "timeYear": 548,
     "dailyMinutesDown": {
       "2021-02-16": 401,
@@ -88,23 +88,23 @@
     "slug": "processors",
     "status": "down",
     "uptime": "97.75%",
-    "uptimeDay": "62.18%",
-    "uptimeWeek": "79.99%",
-    "uptimeMonth": "95.40%",
+    "uptimeDay": "60.95%",
+    "uptimeWeek": "79.96%",
+    "uptimeMonth": "95.39%",
     "uptimeYear": "97.75%",
     "time": 94,
     "timeDay": 83,
     "timeWeek": 79,
-    "timeMonth": 102,
+    "timeMonth": 101,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2021-02-16": 271,
+      "2021-02-16": 289,
       "2021-02-15": 361,
       "2021-02-14": 330,
       "2021-02-13": 261,
       "2021-02-12": 361,
       "2021-02-11": 181,
-      "2021-02-10": 255
+      "2021-02-10": 240
     }
   }
 ]
