@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 207,
     "timeDay": 205,
-    "timeWeek": 203,
+    "timeWeek": 204,
     "timeMonth": 204,
     "timeYear": 207,
     "dailyMinutesDown": {}
@@ -42,7 +42,7 @@
     "url": "$STATUS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "fetchers",
-    "status": "degraded",
+    "status": "up",
     "uptime": "89.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.12%",
