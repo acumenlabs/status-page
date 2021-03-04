@@ -50,7 +50,7 @@
     "uptimeYear": "89.73%",
     "time": 531,
     "timeDay": 535,
-    "timeWeek": 606,
+    "timeWeek": 607,
     "timeMonth": 437,
     "timeYear": 531,
     "dailyMinutesDown": {
@@ -80,7 +80,7 @@
     "url": "$STATUS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "processors",
-    "status": "down",
+    "status": "degraded",
     "uptime": "97.18%",
     "uptimeDay": "87.62%",
     "uptimeWeek": "78.36%",
@@ -92,7 +92,7 @@
     "timeMonth": 96,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2021-03-04": 67,
+      "2021-03-04": 69,
       "2021-03-03": 239,
       "2021-03-02": 540,
       "2021-03-01": 248,
