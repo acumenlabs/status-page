@@ -1,7 +1,7 @@
 url: $STATUS_URL
-status: down
+status: up
 code: 200
-responseTime: 156
-lastUpdated: 2021-03-05T15:13:59.127Z
+responseTime: 166
+lastUpdated: 2021-03-05T15:34:15.658Z
 startTime: Wed Dec 16 2020 08:14:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
