@@ -31,7 +31,7 @@
     "time": 171,
     "timeDay": 142,
     "timeWeek": 164,
-    "timeMonth": 173,
+    "timeMonth": 172,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2020-12-28": 26
@@ -43,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "fetchers",
     "status": "up",
-    "uptime": "89.98%",
+    "uptime": "89.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.12%",
     "uptimeMonth": "73.62%",
-    "uptimeYear": "89.98%",
+    "uptimeYear": "89.99%",
     "time": 531,
     "timeDay": 517,
     "timeWeek": 584,
@@ -80,19 +80,19 @@
     "url": "$STATUS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "processors",
-    "status": "up",
-    "uptime": "97.82%",
-    "uptimeDay": "88.13%",
-    "uptimeWeek": "79.20%",
-    "uptimeMonth": "94.25%",
-    "uptimeYear": "97.82%",
+    "status": "down",
+    "uptime": "97.84%",
+    "uptimeDay": "88.08%",
+    "uptimeWeek": "79.25%",
+    "uptimeMonth": "94.30%",
+    "uptimeYear": "97.84%",
     "time": 95,
-    "timeDay": 135,
+    "timeDay": 136,
     "timeWeek": 101,
     "timeMonth": 95,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2021-03-06": 70,
+      "2021-03-06": 71,
       "2021-03-05": 232,
       "2021-03-04": 434,
       "2021-03-03": 239,
@@ -101,7 +101,7 @@
       "2021-02-28": 247,
       "2021-02-27": 281,
       "2021-02-26": 151,
-      "2021-02-25": 77
+      "2021-02-25": 53
     }
   }
 ]
