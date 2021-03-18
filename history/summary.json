@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 205,
-    "timeDay": 192,
-    "timeWeek": 205,
-    "timeMonth": 200,
+    "timeDay": 272,
+    "timeWeek": 216,
+    "timeMonth": 203,
     "timeYear": 205,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 170,
-    "timeDay": 182,
+    "timeDay": 187,
     "timeWeek": 181,
-    "timeMonth": 161,
+    "timeMonth": 162,
     "timeYear": 170,
     "dailyMinutesDown": {
       "2020-12-28": 26
@@ -49,7 +49,7 @@
     "uptimeMonth": "84.85%",
     "uptimeYear": "91.61%",
     "time": 497,
-    "timeDay": 347,
+    "timeDay": 324,
     "timeWeek": 311,
     "timeMonth": 427,
     "timeYear": 497,
@@ -84,17 +84,17 @@
     "slug": "processors",
     "status": "degraded",
     "uptime": "92.85%",
-    "uptimeDay": "69.06%",
-    "uptimeWeek": "40.28%",
-    "uptimeMonth": "78.25%",
+    "uptimeDay": "68.56%",
+    "uptimeWeek": "41.02%",
+    "uptimeMonth": "78.22%",
     "uptimeYear": "92.85%",
     "time": 103,
-    "timeDay": 173,
+    "timeDay": 142,
     "timeWeek": 148,
     "timeMonth": 114,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2021-03-18": 435,
+      "2021-03-18": 453,
       "2021-03-17": 491,
       "2021-03-16": 419,
       "2021-03-15": 438,
@@ -107,7 +107,7 @@
       "2021-03-08": 533,
       "2021-03-07": 451,
       "2021-03-06": 170,
-      "2021-03-05": 8
+      "2021-03-05": 1
     }
   }
 ]
