@@ -11,9 +11,9 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 217,
-    "timeDay": 217,
+    "timeDay": 213,
     "timeWeek": 231,
-    "timeMonth": 229,
+    "timeMonth": 230,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2021-04-29": 9
@@ -31,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 163,
-    "timeDay": 110,
+    "timeDay": 107,
     "timeWeek": 126,
     "timeMonth": 147,
     "timeYear": 163,
@@ -51,8 +51,8 @@
     "uptimeMonth": "92.87%",
     "uptimeYear": "93.13%",
     "time": 429,
-    "timeDay": 433,
-    "timeWeek": 451,
+    "timeDay": 437,
+    "timeWeek": 453,
     "timeMonth": 344,
     "timeYear": 429,
     "dailyMinutesDown": {
@@ -90,19 +90,19 @@
     "url": "$STATUS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "processors",
-    "status": "up",
-    "uptime": "95.07%",
-    "uptimeDay": "95.57%",
-    "uptimeWeek": "73.14%",
+    "status": "down",
+    "uptime": "97.63%",
+    "uptimeDay": "95.91%",
+    "uptimeWeek": "73.13%",
     "uptimeMonth": "93.56%",
-    "uptimeYear": "95.07%",
+    "uptimeYear": "97.63%",
     "time": 118,
     "timeDay": 132,
     "timeWeek": 134,
     "timeMonth": 141,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2021-05-01": 26,
+      "2021-05-01": 27,
       "2021-04-30": 64,
       "2021-04-29": 69,
       "2021-04-28": 442,
@@ -117,10 +117,7 @@
       "2021-03-17": 491,
       "2021-03-16": 419,
       "2021-03-15": 438,
-      "2021-03-14": 1193,
-      "2021-03-13": 1440,
-      "2021-03-12": 1440,
-      "2021-03-11": 964
+      "2021-03-14": 17
     }
   }
 ]
