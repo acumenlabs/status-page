@@ -11,7 +11,7 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 217,
-    "timeDay": 228,
+    "timeDay": 229,
     "timeWeek": 229,
     "timeMonth": 225,
     "timeYear": 217,
@@ -47,17 +47,17 @@
     "slug": "fetchers",
     "status": "down",
     "uptime": "92.59%",
-    "uptimeDay": "33.75%",
-    "uptimeWeek": "68.64%",
-    "uptimeMonth": "78.53%",
+    "uptimeDay": "32.81%",
+    "uptimeWeek": "68.51%",
+    "uptimeMonth": "78.49%",
     "uptimeYear": "92.59%",
     "time": 433,
     "timeDay": 465,
     "timeWeek": 456,
-    "timeMonth": 415,
+    "timeMonth": 416,
     "timeYear": 433,
     "dailyMinutesDown": {
-      "2021-05-15": 955,
+      "2021-05-15": 968,
       "2021-05-14": 84,
       "2021-05-13": 107,
       "2021-05-12": 107,
@@ -101,9 +101,9 @@
     "slug": "processors",
     "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "94.44%",
-    "uptimeWeek": "96.71%",
-    "uptimeMonth": "97.35%",
+    "uptimeDay": "93.64%",
+    "uptimeWeek": "96.60%",
+    "uptimeMonth": "97.33%",
     "uptimeYear": "99.46%",
     "time": 121,
     "timeDay": 133,
@@ -111,7 +111,7 @@
     "timeMonth": 145,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2021-05-15": 81,
+      "2021-05-15": 92,
       "2021-05-14": 25,
       "2021-05-13": 18,
       "2021-05-12": 12,
@@ -128,7 +128,7 @@
       "2021-05-01": 77,
       "2021-04-30": 64,
       "2021-04-29": 69,
-      "2021-04-28": 21
+      "2021-04-28": 18
     }
   }
 ]
