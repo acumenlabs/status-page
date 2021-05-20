@@ -12,7 +12,7 @@
     "uptimeYear": "99.99%",
     "time": 217,
     "timeDay": 214,
-    "timeWeek": 221,
+    "timeWeek": 220,
     "timeMonth": 222,
     "timeYear": 217,
     "dailyMinutesDown": {
@@ -32,7 +32,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 157,
-    "timeDay": 113,
+    "timeDay": 114,
     "timeWeek": 121,
     "timeMonth": 123,
     "timeYear": 157,
@@ -46,13 +46,13 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "fetchers",
     "status": "up",
-    "uptime": "91.98%",
+    "uptime": "91.99%",
     "uptimeDay": "89.12%",
     "uptimeWeek": "66.89%",
     "uptimeMonth": "73.30%",
-    "uptimeYear": "91.98%",
+    "uptimeYear": "91.99%",
     "time": 434,
-    "timeDay": 509,
+    "timeDay": 505,
     "timeWeek": 463,
     "timeMonth": 440,
     "timeYear": 434,
@@ -103,11 +103,11 @@
     "url": "$STATUS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "processors",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "95.40%",
-    "uptimeWeek": "95.59%",
-    "uptimeMonth": "97.19%",
+    "uptimeDay": "95.26%",
+    "uptimeWeek": "95.57%",
+    "uptimeMonth": "97.21%",
     "uptimeYear": "99.45%",
     "time": 121,
     "timeDay": 140,
@@ -115,7 +115,7 @@
     "timeMonth": 140,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2021-05-20": 60,
+      "2021-05-20": 62,
       "2021-05-19": 52,
       "2021-05-18": 35,
       "2021-05-17": 119,
@@ -133,7 +133,7 @@
       "2021-05-05": 200,
       "2021-05-04": 94,
       "2021-05-03": 71,
-      "2021-05-02": 47
+      "2021-05-02": 36
     }
   }
 ]
