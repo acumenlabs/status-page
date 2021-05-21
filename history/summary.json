@@ -48,12 +48,12 @@
     "status": "up",
     "uptime": "92.03%",
     "uptimeDay": "91.86%",
-    "uptimeWeek": "66.96%",
+    "uptimeWeek": "67.12%",
     "uptimeMonth": "73.27%",
     "uptimeYear": "92.03%",
     "time": 434,
-    "timeDay": 457,
-    "timeWeek": 461,
+    "timeDay": 454,
+    "timeWeek": 460,
     "timeMonth": 442,
     "timeYear": 434,
     "dailyMinutesDown": {
@@ -106,17 +106,17 @@
     "slug": "processors",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "93.37%",
-    "uptimeWeek": "95.09%",
+    "uptimeDay": "93.24%",
+    "uptimeWeek": "95.07%",
     "uptimeMonth": "97.15%",
     "uptimeYear": "99.44%",
     "time": 121,
-    "timeDay": 133,
+    "timeDay": 131,
     "timeWeek": 135,
     "timeMonth": 140,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2021-05-21": 5,
+      "2021-05-21": 7,
       "2021-05-20": 110,
       "2021-05-19": 52,
       "2021-05-18": 35,
@@ -135,7 +135,7 @@
       "2021-05-05": 200,
       "2021-05-04": 94,
       "2021-05-03": 71,
-      "2021-05-02": 7
+      "2021-05-02": 5
     }
   }
 ]
