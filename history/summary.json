@@ -101,17 +101,17 @@
     "slug": "processors",
     "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "94.73%",
-    "uptimeMonth": "97.07%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "94.60%",
+    "uptimeMonth": "97.05%",
     "uptimeYear": "99.45%",
     "time": 122,
-    "timeDay": 129,
+    "timeDay": 128,
     "timeWeek": 138,
-    "timeMonth": 141,
+    "timeMonth": 140,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2021-05-28": 8,
+      "2021-05-28": 22,
       "2021-05-27": 4,
       "2021-05-26": 32,
       "2021-05-25": 22,
@@ -131,7 +131,7 @@
       "2021-05-11": 59,
       "2021-05-10": 76,
       "2021-05-09": 58,
-      "2021-05-08": 6
+      "2021-05-08": 0
     }
   }
 ]
