@@ -11,8 +11,8 @@
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 212,
-    "timeDay": 204,
-    "timeWeek": 206,
+    "timeDay": 201,
+    "timeWeek": 205,
     "timeMonth": 199,
     "timeYear": 212,
     "dailyMinutesDown": {
@@ -36,7 +36,7 @@
     "time": 143,
     "timeDay": 100,
     "timeWeek": 136,
-    "timeMonth": 120,
+    "timeMonth": 119,
     "timeYear": 143,
     "dailyMinutesDown": {
       "2020-12-28": 26
@@ -47,19 +47,19 @@
     "url": "$STATUS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "fetchers",
-    "status": "up",
-    "uptime": "96.51%",
-    "uptimeDay": "85.31%",
-    "uptimeWeek": "91.83%",
-    "uptimeMonth": "88.08%",
-    "uptimeYear": "96.51%",
+    "status": "down",
+    "uptime": "96.52%",
+    "uptimeDay": "93.54%",
+    "uptimeWeek": "91.80%",
+    "uptimeMonth": "88.07%",
+    "uptimeYear": "96.52%",
     "time": 442,
-    "timeDay": 497,
-    "timeWeek": 445,
+    "timeDay": 480,
+    "timeWeek": 443,
     "timeMonth": 474,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2021-07-23": 9,
+      "2021-07-23": 12,
       "2021-07-22": 359,
       "2021-07-21": 92,
       "2021-07-19": 360,
@@ -114,7 +114,7 @@
       "2021-05-17": 565,
       "2021-05-16": 1301,
       "2021-05-15": 1096,
-      "2021-05-14": 20
+      "2021-05-14": 9
     }
   },
   {
@@ -123,18 +123,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "processors",
     "status": "up",
-    "uptime": "95.55%",
-    "uptimeDay": "3.81%",
-    "uptimeWeek": "78.26%",
-    "uptimeMonth": "76.50%",
-    "uptimeYear": "95.55%",
+    "uptime": "95.47%",
+    "uptimeDay": "7.06%",
+    "uptimeWeek": "75.27%",
+    "uptimeMonth": "75.82%",
+    "uptimeYear": "95.47%",
     "time": 126,
-    "timeDay": 138,
+    "timeDay": 133,
     "timeWeek": 144,
     "timeMonth": 136,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2021-07-23": 757,
+      "2021-07-23": 1058,
       "2021-07-22": 1383,
       "2021-07-21": 12,
       "2021-07-19": 33,
@@ -186,7 +186,7 @@
       "2021-05-23": 355,
       "2021-05-22": 81,
       "2021-05-21": 46,
-      "2021-05-20": 50
+      "2021-05-20": 17
     }
   }
 ]
