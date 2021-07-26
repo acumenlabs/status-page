@@ -11,9 +11,9 @@
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 213,
-    "timeDay": 217,
-    "timeWeek": 217,
-    "timeMonth": 203,
+    "timeDay": 218,
+    "timeWeek": 216,
+    "timeMonth": 204,
     "timeYear": 213,
     "dailyMinutesDown": {
       "2021-07-15": 4,
@@ -35,7 +35,7 @@
     "uptimeYear": "99.98%",
     "time": 143,
     "timeDay": 208,
-    "timeWeek": 146,
+    "timeWeek": 145,
     "timeMonth": 124,
     "timeYear": 143,
     "dailyMinutesDown": {
@@ -51,11 +51,11 @@
     "status": "up",
     "uptime": "96.90%",
     "uptimeDay": "73.22%",
-    "uptimeWeek": "90.36%",
+    "uptimeWeek": "90.65%",
     "uptimeMonth": "87.96%",
     "uptimeYear": "96.90%",
     "time": 444,
-    "timeDay": 569,
+    "timeDay": 565,
     "timeWeek": 456,
     "timeMonth": 481,
     "timeYear": 444,
@@ -125,17 +125,17 @@
     "slug": "processors",
     "status": "degraded",
     "uptime": "94.77%",
-    "uptimeDay": "92.94%",
-    "uptimeWeek": "51.15%",
-    "uptimeMonth": "76.97%",
+    "uptimeDay": "92.14%",
+    "uptimeWeek": "51.04%",
+    "uptimeMonth": "77.01%",
     "uptimeYear": "94.77%",
     "time": 127,
-    "timeDay": 220,
+    "timeDay": 217,
     "timeWeek": 156,
     "timeMonth": 140,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2021-07-26": 29,
+      "2021-07-26": 41,
       "2021-07-25": 683,
       "2021-07-24": 1440,
       "2021-07-23": 1376,
@@ -188,8 +188,7 @@
       "2021-05-25": 22,
       "2021-05-24": 14,
       "2021-05-23": 355,
-      "2021-05-22": 81,
-      "2021-05-21": 12
+      "2021-05-22": 81
     }
   }
 ]
