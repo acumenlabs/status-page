@@ -1,7 +1,7 @@
 url: $BACKEND_URL
 status: up
 code: 200
-responseTime: 105
-lastUpdated: 2021-07-31T03:22:44.158Z
+responseTime: 80
+lastUpdated: 2021-07-31T03:36:03.330Z
 startTime: Sun Dec 06 2020 13:45:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
