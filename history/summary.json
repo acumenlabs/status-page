@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 213,
-    "timeDay": 183,
+    "timeDay": 184,
     "timeWeek": 194,
     "timeMonth": 211,
     "timeYear": 213,
@@ -34,8 +34,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 142,
-    "timeDay": 100,
-    "timeWeek": 133,
+    "timeDay": 122,
+    "timeWeek": 129,
     "timeMonth": 140,
     "timeYear": 142,
     "dailyMinutesDown": {
@@ -50,18 +50,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "fetchers",
     "status": "degraded",
-    "uptime": "95.17%",
+    "uptime": "95.27%",
     "uptimeDay": "94.27%",
-    "uptimeWeek": "90.74%",
-    "uptimeMonth": "72.65%",
-    "uptimeYear": "95.17%",
+    "uptimeWeek": "91.12%",
+    "uptimeMonth": "72.69%",
+    "uptimeYear": "95.27%",
     "time": 427,
-    "timeDay": 284,
-    "timeWeek": 361,
+    "timeDay": 281,
+    "timeWeek": 356,
     "timeMonth": 319,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2021-09-09": 22,
+      "2021-09-09": 32,
       "2021-09-08": 119,
       "2021-09-07": 83,
       "2021-09-06": 34,
@@ -106,8 +106,7 @@
       "2021-07-24": 16,
       "2021-07-23": 17,
       "2021-07-22": 359,
-      "2021-07-21": 92,
-      "2021-07-19": 360
+      "2021-07-21": 92
     }
   },
   {
@@ -117,17 +116,17 @@
     "slug": "processors",
     "status": "up",
     "uptime": "99.09%",
-    "uptimeDay": "98.13%",
-    "uptimeWeek": "98.24%",
-    "uptimeMonth": "91.99%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "92.00%",
     "uptimeYear": "99.09%",
     "time": 128,
-    "timeDay": 132,
-    "timeWeek": 152,
+    "timeDay": 135,
+    "timeWeek": 153,
     "timeMonth": 129,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2021-09-09": 25,
+      "2021-09-09": 31,
       "2021-09-08": 15,
       "2021-09-07": 13,
       "2021-09-06": 28,
@@ -149,7 +148,7 @@
       "2021-08-21": 22,
       "2021-08-19": 17,
       "2021-08-18": 382,
-      "2021-08-17": 39
+      "2021-08-17": 27
     }
   }
 ]
