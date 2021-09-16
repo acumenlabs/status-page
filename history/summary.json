@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 212,
-    "timeDay": 175,
-    "timeWeek": 187,
+    "timeDay": 173,
+    "timeWeek": 188,
     "timeMonth": 202,
     "timeYear": 212,
     "dailyMinutesDown": {
@@ -34,7 +34,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 144,
-    "timeDay": 144,
+    "timeDay": 145,
     "timeWeek": 196,
     "timeMonth": 154,
     "timeYear": 144,
@@ -49,19 +49,19 @@
     "url": "$STATUS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "fetchers",
-    "status": "up",
+    "status": "degraded",
     "uptime": "97.56%",
-    "uptimeDay": "83.75%",
-    "uptimeWeek": "86.50%",
-    "uptimeMonth": "78.06%",
+    "uptimeDay": "83.09%",
+    "uptimeWeek": "86.31%",
+    "uptimeMonth": "78.05%",
     "uptimeYear": "97.56%",
     "time": 425,
-    "timeDay": 310,
+    "timeDay": 316,
     "timeWeek": 340,
     "timeMonth": 328,
     "timeYear": 425,
     "dailyMinutesDown": {
-      "2021-09-16": 56,
+      "2021-09-16": 74,
       "2021-09-15": 177,
       "2021-09-14": 433,
       "2021-09-13": 352,
@@ -87,8 +87,7 @@
       "2021-08-24": 11,
       "2021-08-23": 110,
       "2021-08-22": 720,
-      "2021-08-19": 16,
-      "2021-08-18": 2
+      "2021-08-19": 6
     }
   },
   {
@@ -98,17 +97,17 @@
     "slug": "processors",
     "status": "degraded",
     "uptime": "98.96%",
-    "uptimeDay": "28.92%",
-    "uptimeWeek": "87.76%",
-    "uptimeMonth": "90.68%",
+    "uptimeDay": "24.03%",
+    "uptimeWeek": "87.06%",
+    "uptimeMonth": "90.63%",
     "uptimeYear": "98.96%",
     "time": 129,
-    "timeDay": 132,
-    "timeWeek": 162,
+    "timeDay": 147,
+    "timeWeek": 164,
     "timeMonth": 135,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2021-09-16": 164,
+      "2021-09-16": 234,
       "2021-09-15": 859,
       "2021-09-14": 25,
       "2021-09-13": 12,
@@ -129,7 +128,7 @@
       "2021-08-29": 447,
       "2021-08-28": 837,
       "2021-08-27": 774,
-      "2021-08-26": 568
+      "2021-08-26": 519
     }
   }
 ]
