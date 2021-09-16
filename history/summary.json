@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 212,
-    "timeDay": 172,
-    "timeWeek": 188,
+    "timeDay": 171,
+    "timeWeek": 187,
     "timeMonth": 201,
     "timeYear": 212,
     "dailyMinutesDown": {
@@ -34,8 +34,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 144,
-    "timeDay": 155,
-    "timeWeek": 197,
+    "timeDay": 122,
+    "timeWeek": 196,
     "timeMonth": 154,
     "timeYear": 144,
     "dailyMinutesDown": {
@@ -49,19 +49,19 @@
     "url": "$STATUS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "fetchers",
-    "status": "up",
-    "uptime": "97.73%",
-    "uptimeDay": "74.53%",
-    "uptimeWeek": "84.71%",
-    "uptimeMonth": "79.58%",
-    "uptimeYear": "97.73%",
+    "status": "degraded",
+    "uptime": "97.77%",
+    "uptimeDay": "72.48%",
+    "uptimeWeek": "84.23%",
+    "uptimeMonth": "79.85%",
+    "uptimeYear": "97.77%",
     "time": 424,
-    "timeDay": 312,
-    "timeWeek": 342,
-    "timeMonth": 328,
+    "timeDay": 320,
+    "timeWeek": 344,
+    "timeMonth": 329,
     "timeYear": 424,
     "dailyMinutesDown": {
-      "2021-09-16": 257,
+      "2021-09-16": 311,
       "2021-09-15": 177,
       "2021-09-14": 433,
       "2021-09-13": 352,
@@ -83,7 +83,7 @@
       "2021-08-28": 1440,
       "2021-08-27": 1440,
       "2021-08-26": 1440,
-      "2021-08-25": 612
+      "2021-08-25": 438
     }
   },
   {
@@ -91,19 +91,19 @@
     "url": "$STATUS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "processors",
-    "status": "up",
-    "uptime": "98.84%",
-    "uptimeDay": "2.68%",
-    "uptimeWeek": "82.62%",
-    "uptimeMonth": "89.57%",
-    "uptimeYear": "98.84%",
+    "status": "degraded",
+    "uptime": "98.80%",
+    "uptimeDay": "2.25%",
+    "uptimeWeek": "79.94%",
+    "uptimeMonth": "89.20%",
+    "uptimeYear": "98.80%",
     "time": 129,
-    "timeDay": 143,
+    "timeDay": 137,
     "timeWeek": 162,
     "timeMonth": 135,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2021-09-16": 699,
+      "2021-09-16": 977,
       "2021-09-15": 859,
       "2021-09-14": 25,
       "2021-09-13": 12,
@@ -124,7 +124,7 @@
       "2021-08-29": 447,
       "2021-08-28": 837,
       "2021-08-27": 774,
-      "2021-08-26": 519
+      "2021-08-26": 400
     }
   }
 ]
