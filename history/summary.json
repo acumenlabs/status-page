@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 212,
-    "timeDay": 177,
-    "timeWeek": 188,
+    "timeDay": 176,
+    "timeWeek": 187,
     "timeMonth": 201,
     "timeYear": 212,
     "dailyMinutesDown": {
@@ -51,12 +51,12 @@
     "slug": "fetchers",
     "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "75.95%",
+    "uptimeDay": "76.24%",
     "uptimeWeek": "84.12%",
     "uptimeMonth": "92.58%",
     "uptimeYear": "99.18%",
     "time": 424,
-    "timeDay": 319,
+    "timeDay": 317,
     "timeWeek": 345,
     "timeMonth": 329,
     "timeYear": 424,
@@ -89,9 +89,9 @@
     "slug": "processors",
     "status": "degraded",
     "uptime": "98.70%",
-    "uptimeDay": "2.83%",
-    "uptimeWeek": "73.18%",
-    "uptimeMonth": "88.26%",
+    "uptimeDay": "3.65%",
+    "uptimeWeek": "73.05%",
+    "uptimeMonth": "88.27%",
     "uptimeYear": "98.70%",
     "time": 129,
     "timeDay": 132,
@@ -99,7 +99,7 @@
     "timeMonth": 135,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2021-09-17": 277,
+      "2021-09-17": 290,
       "2021-09-16": 1392,
       "2021-09-15": 859,
       "2021-09-14": 25,
@@ -121,7 +121,7 @@
       "2021-08-29": 447,
       "2021-08-28": 837,
       "2021-08-27": 774,
-      "2021-08-26": 122
+      "2021-08-26": 106
     }
   }
 ]
