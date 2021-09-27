@@ -1,7 +1,7 @@
 url: $STATUS_URL
-status: degraded
+status: up
 code: 200
-responseTime: 7219
-lastUpdated: 2021-09-27T18:49:29.157Z
+responseTime: 2510
+lastUpdated: 2021-09-27T19:03:29.230Z
 startTime: Wed Dec 16 2020 08:14:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
