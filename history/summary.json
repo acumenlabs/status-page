@@ -6,13 +6,13 @@
     "slug": "acumen-website",
     "status": "up",
     "uptime": "93.86%",
-    "uptimeDay": "61.89%",
-    "uptimeWeek": "8.84%",
+    "uptimeDay": "64.90%",
+    "uptimeWeek": "9.27%",
     "uptimeMonth": "38.67%",
     "uptimeYear": "93.86%",
     "time": 211,
-    "timeDay": 354,
-    "timeWeek": 234,
+    "timeDay": 353,
+    "timeWeek": 233,
     "timeMonth": 199,
     "timeYear": 211,
     "dailyMinutesDown": {
@@ -72,12 +72,12 @@
     "status": "up",
     "uptime": "98.92%",
     "uptimeDay": "70.20%",
-    "uptimeWeek": "87.75%",
+    "uptimeWeek": "88.05%",
     "uptimeMonth": "89.55%",
     "uptimeYear": "98.92%",
     "time": 427,
-    "timeDay": 494,
-    "timeWeek": 432,
+    "timeDay": 496,
+    "timeWeek": 433,
     "timeMonth": 416,
     "timeYear": 427,
     "dailyMinutesDown": {
@@ -105,10 +105,10 @@
     "url": "$STATUS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "processors",
-    "status": "up",
+    "status": "degraded",
     "uptime": "94.21%",
-    "uptimeDay": "37.00%",
-    "uptimeWeek": "15.80%",
+    "uptimeDay": "39.55%",
+    "uptimeWeek": "15.94%",
     "uptimeMonth": "43.92%",
     "uptimeYear": "94.21%",
     "time": 135,
@@ -117,7 +117,7 @@
     "timeMonth": 185,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2021-10-06": 743,
+      "2021-10-06": 747,
       "2021-10-05": 1440,
       "2021-10-04": 1440,
       "2021-10-03": 990,
@@ -143,8 +143,7 @@
       "2021-09-13": 12,
       "2021-09-12": 118,
       "2021-09-11": 6,
-      "2021-09-10": 15,
-      "2021-09-09": 3
+      "2021-09-10": 15
     }
   }
 ]
