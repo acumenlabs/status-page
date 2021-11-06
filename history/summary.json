@@ -55,7 +55,7 @@
     "uptimeYear": "99.97%",
     "time": 161,
     "timeDay": 99,
-    "timeWeek": 199,
+    "timeWeek": 195,
     "timeMonth": 217,
     "timeYear": 161,
     "dailyMinutesDown": {
@@ -69,11 +69,11 @@
     "url": "$STATUS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "fetchers",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.06%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "79.92%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "79.93%",
     "uptimeYear": "98.06%",
     "time": 423,
     "timeDay": 306,
@@ -81,6 +81,7 @@
     "timeMonth": 394,
     "timeYear": 423,
     "dailyMinutesDown": {
+      "2021-11-06": 4,
       "2021-11-05": 7,
       "2021-11-04": 45,
       "2021-11-03": 41,
@@ -111,7 +112,7 @@
       "2021-10-08": 678,
       "2021-10-07": 200,
       "2021-10-06": 430,
-      "2021-10-05": 12
+      "2021-10-05": 9
     }
   },
   {
@@ -119,11 +120,11 @@
     "url": "$STATUS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "processors",
-    "status": "down",
+    "status": "degraded",
     "uptime": "90.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "54.75%",
+    "uptimeMonth": "54.73%",
     "uptimeYear": "90.92%",
     "time": 134,
     "timeDay": 76,
@@ -131,7 +132,7 @@
     "timeMonth": 132,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2021-11-06": 811,
+      "2021-11-06": 820,
       "2021-11-05": 1440,
       "2021-11-04": 1440,
       "2021-11-03": 1440,
