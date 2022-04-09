@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.88%",
     "time": 201,
-    "timeDay": 199,
+    "timeDay": 187,
     "timeWeek": 186,
     "timeMonth": 191,
     "timeYear": 201,
@@ -58,7 +58,7 @@
     "time": 189,
     "timeDay": 135,
     "timeWeek": 122,
-    "timeMonth": 133,
+    "timeMonth": 132,
     "timeYear": 189,
     "dailyMinutesDown": {
       "2021-11-16": 32,
@@ -72,18 +72,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "fetchers",
     "status": "degraded",
-    "uptime": "75.18%",
+    "uptime": "75.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "67.41%",
+    "uptimeYear": "67.40%",
     "time": 350,
     "timeDay": 123,
     "timeWeek": 131,
     "timeMonth": 135,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2022-04-09": 701,
+      "2022-04-09": 771,
       "2022-04-08": 1440,
       "2022-04-07": 1440,
       "2022-04-06": 1440,
@@ -230,9 +230,9 @@
     "slug": "processors",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "80.20%",
-    "uptimeWeek": "73.19%",
-    "uptimeMonth": "93.83%",
+    "uptimeDay": "80.81%",
+    "uptimeWeek": "73.34%",
+    "uptimeMonth": "93.87%",
     "uptimeYear": "99.49%",
     "time": 123,
     "timeDay": 57,
@@ -240,13 +240,13 @@
     "timeMonth": 63,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2022-04-09": 74,
+      "2022-04-09": 84,
       "2022-04-08": 402,
       "2022-04-07": 585,
       "2022-04-06": 426,
       "2022-04-05": 650,
       "2022-04-04": 511,
-      "2022-04-03": 58
+      "2022-04-03": 32
     }
   }
 ]
