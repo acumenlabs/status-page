@@ -8,14 +8,6 @@ sites:
     url: https://www.acumen.io
   - name: Acumen API
     url: $BACKEND_URL
-  - name: Fetchers
-    url: $STATUS_URL
-    method: POST
-    headers:
-      - "Content-Type: application/json"
-    body: '{"username": "$GH_USERNAME", "password": "$GH_SECRET", "statusType": "fetchers"}'
-    __dangerous__body_down: "more than 30% are down"
-    __dangerous__body_degraded: "between 0-30% are down"
   - name: Processors
     url: $STATUS_URL
     method: POST
