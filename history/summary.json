@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.88%",
     "time": 213,
-    "timeDay": 245,
+    "timeDay": 248,
     "timeWeek": 265,
     "timeMonth": 269,
     "timeYear": 213,
@@ -68,18 +68,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "processors",
     "status": "degraded",
-    "uptime": "99.48%",
-    "uptimeDay": "30.60%",
-    "uptimeWeek": "59.09%",
-    "uptimeMonth": "89.33%",
-    "uptimeYear": "99.11%",
+    "uptime": "99.47%",
+    "uptimeDay": "28.04%",
+    "uptimeWeek": "58.44%",
+    "uptimeMonth": "89.22%",
+    "uptimeYear": "99.10%",
     "time": 104,
-    "timeDay": 97,
+    "timeDay": 96,
     "timeWeek": 85,
     "timeMonth": 96,
     "timeYear": 104,
     "dailyMinutesDown": {
-      "2022-08-28": 90,
+      "2022-08-28": 156,
       "2022-08-27": 966,
       "2022-08-26": 545,
       "2022-08-25": 459,
@@ -88,7 +88,7 @@
       "2022-08-22": 534,
       "2022-08-21": 204,
       "2022-08-19": 368,
-      "2022-08-18": 181
+      "2022-08-18": 166
     }
   }
 ]
