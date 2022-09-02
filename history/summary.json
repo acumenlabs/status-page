@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.88%",
     "time": 214,
-    "timeDay": 217,
-    "timeWeek": 251,
+    "timeDay": 214,
+    "timeWeek": 250,
     "timeMonth": 266,
     "timeYear": 214,
     "dailyMinutesDown": {
@@ -54,7 +54,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 196,
-    "timeDay": 121,
+    "timeDay": 120,
     "timeWeek": 137,
     "timeMonth": 133,
     "timeYear": 197,
@@ -69,17 +69,17 @@
     "slug": "processors",
     "status": "degraded",
     "uptime": "99.34%",
-    "uptimeDay": "34.60%",
-    "uptimeWeek": "45.61%",
-    "uptimeMonth": "86.47%",
-    "uptimeYear": "98.87%",
+    "uptimeDay": "36.84%",
+    "uptimeWeek": "45.51%",
+    "uptimeMonth": "86.38%",
+    "uptimeYear": "98.86%",
     "time": 104,
-    "timeDay": 83,
+    "timeDay": 82,
     "timeWeek": 94,
     "timeMonth": 96,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2022-09-02": 153,
+      "2022-09-02": 219,
       "2022-09-01": 1024,
       "2022-08-31": 930,
       "2022-08-30": 782,
@@ -87,7 +87,7 @@
       "2022-08-28": 733,
       "2022-08-27": 966,
       "2022-08-26": 545,
-      "2022-08-25": 375
+      "2022-08-25": 351
     }
   }
 ]
