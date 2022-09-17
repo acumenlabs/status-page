@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.88%",
     "time": 216,
-    "timeDay": 235,
-    "timeWeek": 252,
+    "timeDay": 232,
+    "timeWeek": 251,
     "timeMonth": 257,
     "timeYear": 216,
     "dailyMinutesDown": {
@@ -53,7 +53,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 195,
-    "timeDay": 134,
+    "timeDay": 133,
     "timeWeek": 122,
     "timeMonth": 128,
     "timeYear": 195,
@@ -66,19 +66,19 @@
     "url": "$STATUS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "processors",
-    "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "77.36%",
-    "uptimeWeek": "77.07%",
-    "uptimeMonth": "90.04%",
-    "uptimeYear": "99.17%",
+    "status": "degraded",
+    "uptime": "99.54%",
+    "uptimeDay": "81.94%",
+    "uptimeWeek": "77.93%",
+    "uptimeMonth": "90.26%",
+    "uptimeYear": "99.19%",
     "time": 101,
-    "timeDay": 141,
-    "timeWeek": 124,
+    "timeDay": 123,
+    "timeWeek": 125,
     "timeMonth": 96,
     "timeYear": 101,
     "dailyMinutesDown": {
-      "2022-09-17": 18,
+      "2022-09-17": 35,
       "2022-09-16": 343,
       "2022-09-15": 216,
       "2022-09-14": 289,
@@ -89,7 +89,7 @@
       "2022-09-09": 660,
       "2022-09-08": 435,
       "2022-09-07": 439,
-      "2022-09-06": 486
+      "2022-09-06": 370
     }
   }
 ]
