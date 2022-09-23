@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.09%",
+    "uptimeYear": "96.38%",
     "time": 217,
-    "timeDay": 267,
-    "timeWeek": 270,
-    "timeMonth": 256,
+    "timeDay": 286,
+    "timeWeek": 272,
+    "timeMonth": 257,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2022-07-02": 6,
@@ -32,8 +32,7 @@
       "2021-09-27": 1440,
       "2021-09-26": 1440,
       "2021-09-25": 1440,
-      "2021-09-24": 1440,
-      "2021-09-23": 1440
+      "2021-09-24": 1440
     }
   },
   {
@@ -47,10 +46,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 195,
-    "timeDay": 113,
-    "timeWeek": 125,
-    "timeMonth": 128,
+    "time": 196,
+    "timeDay": 184,
+    "timeWeek": 134,
+    "timeMonth": 130,
     "timeYear": 196,
     "dailyMinutesDown": {
       "2021-11-16": 32
@@ -62,18 +61,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "processors",
     "status": "degraded",
-    "uptime": "99.60%",
-    "uptimeDay": "94.74%",
-    "uptimeWeek": "86.73%",
-    "uptimeMonth": "91.47%",
-    "uptimeYear": "99.29%",
-    "time": 101,
-    "timeDay": 84,
-    "timeWeek": 108,
+    "uptime": "99.61%",
+    "uptimeDay": "93.63%",
+    "uptimeWeek": "88.71%",
+    "uptimeMonth": "91.74%",
+    "uptimeYear": "99.31%",
+    "time": 100,
+    "timeDay": 87,
+    "timeWeek": 95,
     "timeMonth": 96,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2022-09-22": 16,
+      "2022-09-23": 16,
+      "2022-09-22": 111,
       "2022-09-21": 60,
       "2022-09-20": 245,
       "2022-09-19": 81,
@@ -86,7 +86,7 @@
       "2022-09-12": 276,
       "2022-09-11": 531,
       "2022-09-10": 552,
-      "2022-09-09": 615
+      "2022-09-09": 382
     }
   }
 ]
