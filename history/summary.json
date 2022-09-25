@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.acumen.io",
     "slug": "acumen-website",
     "status": "up",
-    "uptime": "97.14%",
+    "uptime": "97.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.38%",
+    "uptimeYear": "96.91%",
     "time": 217,
-    "timeDay": 286,
-    "timeWeek": 272,
-    "timeMonth": 257,
-    "timeYear": 217,
+    "timeDay": 207,
+    "timeWeek": 263,
+    "timeMonth": 253,
+    "timeYear": 218,
     "dailyMinutesDown": {
       "2022-07-02": 6,
       "2022-06-04": 19,
@@ -30,9 +30,7 @@
       "2021-09-29": 1440,
       "2021-09-28": 1440,
       "2021-09-27": 1440,
-      "2021-09-26": 1440,
-      "2021-09-25": 1440,
-      "2021-09-24": 1440
+      "2021-09-26": 1440
     }
   },
   {
@@ -46,11 +44,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 196,
-    "timeDay": 184,
-    "timeWeek": 134,
-    "timeMonth": 130,
-    "timeYear": 196,
+    "time": 195,
+    "timeDay": 111,
+    "timeWeek": 131,
+    "timeMonth": 128,
+    "timeYear": 194,
     "dailyMinutesDown": {
       "2021-11-16": 32
     }
@@ -60,19 +58,21 @@
     "url": "$STATUS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "processors",
-    "status": "degraded",
-    "uptime": "99.61%",
-    "uptimeDay": "93.63%",
-    "uptimeWeek": "88.71%",
-    "uptimeMonth": "91.74%",
-    "uptimeYear": "99.31%",
+    "status": "up",
+    "uptime": "99.63%",
+    "uptimeDay": "80.83%",
+    "uptimeWeek": "87.87%",
+    "uptimeMonth": "92.13%",
+    "uptimeYear": "99.34%",
     "time": 100,
-    "timeDay": 87,
-    "timeWeek": 95,
-    "timeMonth": 96,
-    "timeYear": 100,
+    "timeDay": 78,
+    "timeWeek": 87,
+    "timeMonth": 97,
+    "timeYear": 99,
     "dailyMinutesDown": {
-      "2022-09-23": 16,
+      "2022-09-25": 49,
+      "2022-09-24": 228,
+      "2022-09-23": 247,
       "2022-09-22": 111,
       "2022-09-21": 60,
       "2022-09-20": 245,
@@ -85,8 +85,7 @@
       "2022-09-13": 123,
       "2022-09-12": 276,
       "2022-09-11": 531,
-      "2022-09-10": 552,
-      "2022-09-09": 382
+      "2022-09-10": 257
     }
   }
 ]
