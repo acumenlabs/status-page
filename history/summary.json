@@ -5,14 +5,14 @@
     "icon": "https://favicons.githubusercontent.com/www.acumen.io",
     "slug": "acumen-website",
     "status": "up",
-    "uptime": "97.16%",
+    "uptime": "97.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.73%",
+    "uptimeYear": "97.77%",
     "time": 218,
-    "timeDay": 352,
-    "timeWeek": 264,
+    "timeDay": 367,
+    "timeWeek": 265,
     "timeMonth": 256,
     "timeYear": 218,
     "dailyMinutesDown": {
@@ -27,8 +27,7 @@
       "2021-10-02": 1440,
       "2021-10-01": 1440,
       "2021-09-30": 1440,
-      "2021-09-29": 1440,
-      "2021-09-28": 1440
+      "2021-09-29": 1440
     }
   },
   {
@@ -43,10 +42,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 193,
-    "timeDay": 153,
-    "timeWeek": 133,
+    "timeDay": 158,
+    "timeWeek": 134,
     "timeMonth": 128,
-    "timeYear": 191,
+    "timeYear": 190,
     "dailyMinutesDown": {
       "2021-11-16": 32
     }
@@ -58,17 +57,17 @@
     "slug": "processors",
     "status": "degraded",
     "uptime": "99.63%",
-    "uptimeDay": "90.42%",
-    "uptimeWeek": "88.65%",
-    "uptimeMonth": "91.99%",
-    "uptimeYear": "99.33%",
-    "time": 99,
+    "uptimeDay": "88.01%",
+    "uptimeWeek": "88.31%",
+    "uptimeMonth": "92.07%",
+    "uptimeYear": "99.34%",
+    "time": 98,
     "timeDay": 105,
     "timeWeek": 88,
     "timeMonth": 97,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2022-09-28": 9,
+      "2022-09-28": 44,
       "2022-09-27": 130,
       "2022-09-26": 236,
       "2022-09-25": 127,
@@ -85,7 +84,7 @@
       "2022-09-14": 289,
       "2022-09-13": 123,
       "2022-09-12": 276,
-      "2022-09-11": 397
+      "2022-09-11": 328
     }
   }
 ]
