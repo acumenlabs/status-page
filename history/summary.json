@@ -2,19 +2,19 @@
   {
     "name": "Acumen Website",
     "url": "https://www.acumen.io",
-    "icon": "https://favicons.githubusercontent.com/www.acumen.io",
+    "icon": "https://icons.duckduckgo.com/ip3/www.acumen.io.ico",
     "slug": "acumen-website",
     "status": "up",
     "uptime": "97.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.60%",
-    "time": 219,
-    "timeDay": 263,
-    "timeWeek": 292,
-    "timeMonth": 262,
-    "timeYear": 219,
+    "uptimeYear": "98.84%",
+    "time": 220,
+    "timeDay": 332,
+    "timeWeek": 310,
+    "timeMonth": 266,
+    "timeYear": 220,
     "dailyMinutesDown": {
       "2022-07-02": 6,
       "2022-06-04": 19,
@@ -23,14 +23,13 @@
       "2021-10-06": 378,
       "2021-10-05": 1440,
       "2021-10-04": 1440,
-      "2021-10-03": 1440,
-      "2021-10-02": 1440
+      "2021-10-03": 1440
     }
   },
   {
     "name": "Acumen API",
     "url": "$BACKEND_URL",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acumen-api",
     "status": "up",
     "uptime": "99.98%",
@@ -38,11 +37,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 190,
-    "timeDay": 124,
-    "timeWeek": 135,
+    "time": 189,
+    "timeDay": 137,
+    "timeWeek": 138,
     "timeMonth": 128,
-    "timeYear": 189,
+    "timeYear": 188,
     "dailyMinutesDown": {
       "2021-11-16": 32
     }
@@ -50,21 +49,22 @@
   {
     "name": "Processors",
     "url": "$STATUS_URL",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "processors",
-    "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "91.79%",
-    "uptimeWeek": "87.58%",
-    "uptimeMonth": "92.59%",
-    "uptimeYear": "99.38%",
+    "status": "degraded",
+    "uptime": "99.67%",
+    "uptimeDay": "88.11%",
+    "uptimeWeek": "88.13%",
+    "uptimeMonth": "92.88%",
+    "uptimeYear": "99.41%",
     "time": 96,
-    "timeDay": 90,
-    "timeWeek": 85,
-    "timeMonth": 96,
-    "timeYear": 96,
+    "timeDay": 101,
+    "timeWeek": 89,
+    "timeMonth": 97,
+    "timeYear": 95,
     "dailyMinutesDown": {
-      "2022-10-01": 29,
+      "2022-10-02": 20,
+      "2022-10-01": 152,
       "2022-09-30": 194,
       "2022-09-29": 132,
       "2022-09-28": 255,
@@ -80,8 +80,7 @@
       "2022-09-18": 205,
       "2022-09-17": 192,
       "2022-09-16": 343,
-      "2022-09-15": 216,
-      "2022-09-14": 222
+      "2022-09-15": 168
     }
   }
 ]
