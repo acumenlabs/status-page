@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.acumen.io.ico",
     "slug": "acumen-website",
     "status": "up",
-    "uptime": "97.18%",
+    "uptime": "97.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.85%",
+    "uptimeYear": "99.24%",
     "time": 220,
-    "timeDay": 330,
-    "timeWeek": 309,
+    "timeDay": 250,
+    "timeWeek": 311,
     "timeMonth": 266,
     "timeYear": 220,
     "dailyMinutesDown": {
@@ -22,8 +22,7 @@
       "2021-12-21": 17,
       "2021-10-06": 378,
       "2021-10-05": 1440,
-      "2021-10-04": 1440,
-      "2021-10-03": 1440
+      "2021-10-04": 1440
     }
   },
   {
@@ -38,9 +37,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 189,
-    "timeDay": 138,
-    "timeWeek": 139,
-    "timeMonth": 128,
+    "timeDay": 134,
+    "timeWeek": 140,
+    "timeMonth": 129,
     "timeYear": 188,
     "dailyMinutesDown": {
       "2021-11-16": 32
@@ -51,19 +50,20 @@
     "url": "$STATUS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "processors",
-    "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "85.84%",
-    "uptimeWeek": "87.81%",
-    "uptimeMonth": "92.81%",
-    "uptimeYear": "99.40%",
-    "time": 96,
-    "timeDay": 101,
-    "timeWeek": 89,
-    "timeMonth": 97,
+    "status": "degraded",
+    "uptime": "99.68%",
+    "uptimeDay": "91.41%",
+    "uptimeWeek": "88.63%",
+    "uptimeMonth": "93.20%",
+    "uptimeYear": "99.43%",
+    "time": 95,
+    "timeDay": 104,
+    "timeWeek": 93,
+    "timeMonth": 98,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2022-10-02": 53,
+      "2022-10-03": 61,
+      "2022-10-02": 167,
       "2022-10-01": 152,
       "2022-09-30": 194,
       "2022-09-29": 132,
@@ -79,8 +79,7 @@
       "2022-09-19": 81,
       "2022-09-18": 205,
       "2022-09-17": 192,
-      "2022-09-16": 343,
-      "2022-09-15": 168
+      "2022-09-16": 164
     }
   }
 ]
