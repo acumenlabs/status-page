@@ -9,10 +9,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.53%",
+    "uptimeYear": "99.66%",
     "time": 220,
-    "timeDay": 254,
-    "timeWeek": 306,
+    "timeDay": 238,
+    "timeWeek": 292,
     "timeMonth": 266,
     "timeYear": 220,
     "dailyMinutesDown": {
@@ -20,8 +20,7 @@
       "2022-06-04": 19,
       "2022-01-31": 7,
       "2021-12-21": 17,
-      "2021-10-06": 378,
-      "2021-10-05": 1440
+      "2021-10-06": 378
     }
   },
   {
@@ -35,9 +34,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 188,
-    "timeDay": 131,
-    "timeWeek": 139,
+    "time": 187,
+    "timeDay": 124,
+    "timeWeek": 135,
     "timeMonth": 129,
     "timeYear": 188,
     "dailyMinutesDown": {
@@ -50,18 +49,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "processors",
     "status": "degraded",
-    "uptime": "99.68%",
-    "uptimeDay": "86.88%",
-    "uptimeWeek": "88.11%",
-    "uptimeMonth": "93.14%",
-    "uptimeYear": "99.43%",
+    "uptime": "99.67%",
+    "uptimeDay": "79.80%",
+    "uptimeWeek": "86.57%",
+    "uptimeMonth": "92.85%",
+    "uptimeYear": "99.40%",
     "time": 95,
-    "timeDay": 95,
-    "timeWeek": 94,
+    "timeDay": 96,
+    "timeWeek": 93,
     "timeMonth": 98,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2022-10-04": 115,
+      "2022-10-05": 16,
+      "2022-10-04": 312,
       "2022-10-03": 152,
       "2022-10-02": 167,
       "2022-10-01": 152,
@@ -78,7 +78,7 @@
       "2022-09-20": 245,
       "2022-09-19": 81,
       "2022-09-18": 205,
-      "2022-09-17": 174
+      "2022-09-17": 91
     }
   }
 ]
