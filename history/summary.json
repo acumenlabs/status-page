@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 237,
-    "timeDay": 265,
-    "timeWeek": 268,
+    "timeDay": 269,
+    "timeWeek": 269,
     "timeMonth": 248,
     "timeYear": 237,
     "dailyMinutesDown": {
@@ -37,7 +37,7 @@
     "timeDay": 126,
     "timeWeek": 140,
     "timeMonth": 129,
-    "timeYear": 149,
+    "timeYear": 148,
     "dailyMinutesDown": {}
   },
   {
@@ -45,19 +45,19 @@
     "url": "$STATUS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "processors",
-    "status": "up",
-    "uptime": "98.40%",
-    "uptimeDay": "89.52%",
-    "uptimeWeek": "94.70%",
-    "uptimeMonth": "82.12%",
-    "uptimeYear": "96.64%",
+    "status": "degraded",
+    "uptime": "98.41%",
+    "uptimeDay": "89.03%",
+    "uptimeWeek": "94.53%",
+    "uptimeMonth": "82.08%",
+    "uptimeYear": "96.65%",
     "time": 85,
     "timeDay": 62,
-    "timeWeek": 67,
+    "timeWeek": 68,
     "timeMonth": 79,
     "timeYear": 85,
     "dailyMinutesDown": {
-      "2023-01-23": 33,
+      "2023-01-23": 50,
       "2023-01-22": 164,
       "2023-01-21": 69,
       "2023-01-20": 126,
@@ -107,7 +107,7 @@
       "2022-11-10": 17,
       "2022-11-03": 129,
       "2022-10-18": 281,
-      "2022-10-17": 153
+      "2022-10-17": 127
     }
   }
 ]
