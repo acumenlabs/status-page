@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 247,
-    "timeDay": 283,
-    "timeWeek": 248,
+    "timeDay": 280,
+    "timeWeek": 247,
     "timeMonth": 255,
     "timeYear": 247,
     "dailyMinutesDown": {
@@ -44,18 +44,19 @@
     "url": "$STATUS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "processors",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.80%",
-    "uptimeDay": "63.87%",
-    "uptimeWeek": "56.32%",
+    "uptimeDay": "62.79%",
+    "uptimeWeek": "56.53%",
     "uptimeMonth": "67.77%",
     "uptimeYear": "97.31%",
     "time": 85,
-    "timeDay": 108,
+    "timeDay": 109,
     "timeWeek": 96,
     "timeMonth": 86,
     "timeYear": 85,
     "dailyMinutesDown": {
+      "2023-03-13": 16,
       "2023-03-12": 536,
       "2023-03-11": 849,
       "2023-03-10": 766,
@@ -72,7 +73,7 @@
       "2023-02-27": 997,
       "2023-02-26": 750,
       "2023-02-25": 839,
-      "2023-02-24": 416
+      "2023-02-24": 399
     }
   }
 ]
